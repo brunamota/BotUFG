@@ -29,14 +29,15 @@ Bot do WhatsApp para ajudar estudantes da UFG a encontrar localizações e infor
 ## 🛠️ Instalação
 
 1. **Instalar dependências:**
-\`\`\`bash
+
+```bash
 npm install
-\`\`\`
+```
 
 2. **Executar o bot:**
-\`\`\`bash
+```bash
 npm start
-\`\`\`
+```
 
 3. **Escanear QR Code:**
    - O QR Code aparecerá no terminal
